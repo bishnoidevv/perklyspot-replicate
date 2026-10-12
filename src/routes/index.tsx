@@ -24,7 +24,7 @@ export const Route = createFileRoute("/")({
   component: Index,
 });
 
-const OFFER_URL = "https://giftclick.org/aff_c?offer_id=3004&aff_id=148566";
+const OFFER_URL = "https://linkthem.net/aff_c?offer_id=1921&aff_id=148566";
 
 const steps = [
   "Click the button below",
